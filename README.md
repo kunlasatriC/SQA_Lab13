@@ -1,5 +1,7 @@
 # SQA_Lab13
+
 643021318-2  Nuttakit Thaiphuttra sec2 (Write Test Case)
+643020606-2  Nuttanon Promthaisong sec2 (write FizzBuzz Case)
 643020594-3  Kunlasatri Chaiyahad sec2 (Refector)
 - ชื่อ Class จะต้องขึ้นต้นด้วยตัวใหญ่เสมอ โดยที่ชื่อ Instance เป็นตัวเล็ก
 - ชื่อ Method ตัวแรกเป็นตัวเล็ก
